@@ -1,0 +1,10 @@
+{
+  "id": "rivet-kbdoc-styles",
+  "name": "Rivet KB Doc Styles,
+  "type": "css",
+  "owner": "DCD Team",
+  "repo_url": "https://github.com/indiana-university/rivet-kbdoc-styles",
+  "description": "An old repo with extra styles to style KB docs better.",
+  "depends_on": ["rivet-source", ""],
+  "status": "archived"
+}
